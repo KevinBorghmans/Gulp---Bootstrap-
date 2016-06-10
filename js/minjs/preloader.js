@@ -1,0 +1,1 @@
+window.onload=function(){function n(){e>=100?clearInterval(a):(e++,t.style.width=e+"%")}var t=document.getElementById("myBar"),e=1,a=setInterval(n,40)};
